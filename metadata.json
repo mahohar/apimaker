@@ -1,0 +1,8 @@
+{
+  "name": "Site2API Lab",
+  "description": "Interactive BCA Practical Workbench for turning any public website into a structured JSON REST API with live endpoint publishing, HTTP testing, code export, and presentation slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
